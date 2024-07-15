@@ -1,0 +1,11 @@
+/Users/hirotakamaki/Desktop/hello-world/target/debug/deps/liburl-655c85b836b9e2e5.rmeta: /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/lib.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/host.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/origin.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/parser.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/path_segments.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/slicing.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/quirks.rs
+
+/Users/hirotakamaki/Desktop/hello-world/target/debug/deps/url-655c85b836b9e2e5.d: /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/lib.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/host.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/origin.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/parser.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/path_segments.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/slicing.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/quirks.rs
+
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/lib.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/host.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/origin.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/parser.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/path_segments.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/slicing.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/quirks.rs:

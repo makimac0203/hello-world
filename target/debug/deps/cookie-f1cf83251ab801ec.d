@@ -1,0 +1,11 @@
+/Users/hirotakamaki/Desktop/hello-world/target/debug/deps/libcookie-f1cf83251ab801ec.rmeta: /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/lib.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/builder.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/parse.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/jar.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/delta.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/draft.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/expiration.rs
+
+/Users/hirotakamaki/Desktop/hello-world/target/debug/deps/cookie-f1cf83251ab801ec.d: /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/lib.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/builder.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/parse.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/jar.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/delta.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/draft.rs /Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/expiration.rs
+
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/lib.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/builder.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/parse.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/jar.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/delta.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/draft.rs:
+/Users/hirotakamaki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/expiration.rs:
